@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I’m Tim, a web developer based in Germany.
+
+👉 You can find out more info and other social links on my [website](https://moehring.dev).
+
 <!--
 **OmnomnomTee/omnomnomtee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
